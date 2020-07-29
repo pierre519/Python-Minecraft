@@ -13,3 +13,4 @@ while t<20:
     mc.setBlocks(x+30,y,z,x-30,y-20,z,19)
     z=z+5
     t=t+1
+    
